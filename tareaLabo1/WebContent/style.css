@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+
+form{
+	width: 400px;
+	padding: 20px;
+	background: grey;
+	border-radius: 10px;
+	color: white;
+}
+
+input{
+	margin: 10px 0px 10px 0px;
+	width: 100%;
+	padding: 5px;
+	border-radius: 10px;
+}
+
+h1{
+	text-align: center;
+}
+
+#boton{
+	width: 40%;
+	margin-left: 30%;
+}
